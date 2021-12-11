@@ -1,1 +1,1 @@
-# hito_grupal_dwec
+# Aqui se encuentra la questión 2 del hito grupal
